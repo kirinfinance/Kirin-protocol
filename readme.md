@@ -24,4 +24,4 @@ Controller(multi-sig): [0x4897eF1E5ff3dC56E4527AA5C83ef8f384040293](https://ethe
 
 UniV2 UNI/ETH: [0x95Af9f1196FfDBC9fb4fdDF268c3b552E88D2Ca1](https://etherscan.io/address/0x95af9f1196ffdbc9fb4fddf268c3b552e88d2ca1)
 
-UniV2 RIN/ETH: (Coming soon)
+UniV2 RIN/ETH: [0xb8abF8e3E43cCEF5c21559Bc370908A57C47ce79](https://etherscan.io/address/0xb8abF8e3E43cCEF5c21559Bc370908A57C47ce79)
